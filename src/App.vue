@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Standard반 배열 API</h1>
+    <h1>배열 API 테스트</h1>
     <div>
       <input type="text" v-model="query"
       placeholder="Enter text"
